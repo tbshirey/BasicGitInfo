@@ -44,7 +44,14 @@ git push -u origin master
 
 * If push is rejected because the remote contains work that you do not have locally, then you have to integrate the remote changes locally
 
+git add filename
+
+git commit -m "info"
+
 git pull
+
+git push -u origin master
+
 ctrl+x
 
 
