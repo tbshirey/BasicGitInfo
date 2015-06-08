@@ -2,8 +2,9 @@
 
 * set global username and email
 
-**git config --global user.name "github user name"
-**git config --global user.email "github email"
+git config --global user.name "github user name"
+
+git config --global user.email "github email"
 
 * First initialize a local repository
 
@@ -33,7 +34,7 @@ git commit -m "changes"
 
 git remote add origin https://github.com/tbshirey/BasicGitInfo.git
 
-**or is repo already exists
+  * or if repo already exists
 
 git fetch https://github.com/tbshirey/BasicGitInfo.git
 
